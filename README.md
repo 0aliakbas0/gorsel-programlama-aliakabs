@@ -1,0 +1,2 @@
+# gorsel-programlama-aliakabs
+Ödev
